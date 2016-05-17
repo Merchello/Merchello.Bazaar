@@ -1,0 +1,6 @@
+﻿{
+	javascript : [
+		'~/App_Plugins/Merchello.FOA/shipping.foa.module.js',
+		'~/App_Plugins/Merchello.FOA/shipping.foa.shippingprovider.controller.js'
+	]
+}
